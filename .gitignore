@@ -1,0 +1,4 @@
+__pycache__
+
+# Ignoring files in cache folder
+/cache/*
